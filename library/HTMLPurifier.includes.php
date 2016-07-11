@@ -228,5 +228,6 @@ require 'HTMLPurifier/URIScheme/mailto.php';
 require 'HTMLPurifier/URIScheme/news.php';
 require 'HTMLPurifier/URIScheme/nntp.php';
 require 'HTMLPurifier/URIScheme/tel.php';
+require 'HTMLPurifier/URIScheme/tougudashi.php';
 require 'HTMLPurifier/VarParser/Flexible.php';
 require 'HTMLPurifier/VarParser/Native.php';
